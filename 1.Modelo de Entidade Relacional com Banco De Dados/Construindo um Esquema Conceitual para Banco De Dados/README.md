@@ -15,7 +15,7 @@ Criação de um esquema conceitual para o contexto de uma oficina mecânica com 
 
 ## Arquivos:
 
-- O **projeto final** está em PDF com o nome de *'oficina_mecanica_dio'*
+- [**Projeto Final**](https://github.com/bccalegari/sql_database_specialist_dio/blob/main/1.Modelo%20de%20Entidade%20Relacional%20com%20Banco%20De%20Dados/Construindo%20um%20Esquema%20Conceitual%20para%20Banco%20De%20Dados/oficina_mecanica_dio.pdf)
 
 ## Ferramentas Utilizadas:
 
