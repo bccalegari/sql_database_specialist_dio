@@ -36,9 +36,9 @@ Refinamento de um projeto conceitual de banco de dados sobre e-commerce.
 
 ## Arquivos:
 
-- O projeto inicial, **sem refinamento** está em PDF com o nome de *'e_commerce_proposto_dio'*
+- [Projeto Inicial, **sem refinamento**](https://github.com/bccalegari/sql_database_specialist_dio/blob/main/1.Modelo%20de%20Entidade%20Relacional%20com%20Banco%20De%20Dados/Refinando%20um%20Projeto%20Conceitual%20de%20Banco%20de%20Dados%20%E2%80%93%20E-COMMERCE/e_commerce_proposto_dio.pdf)
 
-- O **projeto refinado** está em PDF com o nome de *'e_commerce_refinado_dio'*
+- [**Projeto Refinado**](https://github.com/bccalegari/sql_database_specialist_dio/blob/main/1.Modelo%20de%20Entidade%20Relacional%20com%20Banco%20De%20Dados/Refinando%20um%20Projeto%20Conceitual%20de%20Banco%20de%20Dados%20%E2%80%93%20E-COMMERCE/e_commerce_refinado_dio.pdf)
 
 ## Ferramentas Utilizadas:
 
