@@ -1,0 +1,8 @@
+id_fornecedor	razao_social	cnpj	endereco	telefone	email
+1	GapTwo BRASIL INDUSTRIA E COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA	85113816640050	7439 Ernser Flats, Suite 012, 64337, Timmyborough, California, United States	6692595181	gaptwo@email.com
+2	PERJ INFORMATICA S/A	97090046412797	00198 Mabelle Shore, Apt. 069, 51366-7764, Port Celestinoshire, California, United States	6018025719	perj@email.com
+3	FELL Eletronica do Brasil LTDA	85653782478937	83830 Marietta Mountains, Suite 027, 82217, Schneiderbury, Michigan, United States	4765979525	fell@email.com
+4	KEY Eletronica do Brasil LTDA	21721594699188	90427 Stiedemann Drives, Suite 401, 81596-9755, South Alysa, Nevada, United States	7341989433	key@email.com
+5	P90 S/a	64080048547993	2914 Kilback Summit, Apt. 248, 82004, Bernhardton, Wyoming, United States	6202137716	p90@email.com
+6	Heiton0 S/a	53898607754418	089 Hayes Mews, Apt. 440, 61644-6254, South Madilynside, Wyoming, United States	7691417631	heiton0@email.com
+7	FLASH21 Comercial Ltda	68587271902780	54182 Bruen Motorway, Apt. 019, 07065-9833, West Jamirbury, Wisconsin, United States	5194672809	flash21@email.com

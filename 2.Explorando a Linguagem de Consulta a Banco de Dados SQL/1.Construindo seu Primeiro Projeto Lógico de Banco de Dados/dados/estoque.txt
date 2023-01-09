@@ -1,0 +1,5 @@
+id_estoque	endereco	responsavel	telefone_responsavel	email_responsavel
+1	1785 Jerome Run, Apt. 938, 02543, New Lydaville, Maine, United States	Igor Cabrantes	5604938990	igor_cabrantes@email.com
+2	0231 Leanna Union, Apt. 553, 81475, West Heloise, Florida, United States	Derek Cole	3165518098	derek_cole@email.com
+3	3401 Lakin Inlet, Apt. 925, 57591-1342, North Haylee, Wyoming, United States	Clara Buda	3088637459	clara_buda@email.com
+4	08611 Florian Courts, Apt. 424, 51744-0609, Kristown, Rhode Island, United States	Yasmin Tassy	4377897992	yasmin_tassy@email.com

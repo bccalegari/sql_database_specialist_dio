@@ -1,0 +1,41 @@
+id_cliente	nome	sobrenome	sexo	data_nascimento	telefone	endereco	id_conta
+1	Bruno	Calegari	M	1990-10-29	8333153030	000 Franecki Track, Suite 410, 03832-6624, Edgardostad, Alabama, United States	0001
+2	Breno	Costa	M	1987-10-23	2404074204	24351 Kshlerin Meadows, Suite 320, 85927-3569, Boehmstad, Arizona, United States	0002
+3	Gustavo	Jackrozinsk	M	2001-03-05	4426295721	6120 Wisoky Port, Suite 891, 51962, Port Layne, California, United States	0003
+4	Karina	Lopes	F	1987-12-30	5538189308	03478 Darian Stream, Apt. 536, 73808, Lake Rudy, Ohio, United States	0004
+5	Beatriz	Dias	F	1996-03-06	6197019783	82767 Feest Forks, Suite 188, 47355-4941, Johnsonmouth, Hawaii, United States	0005
+6	Adriano	Santos	M	1999-11-08	4669013486	3047 Carmela Meadows, Apt. 610, 51842-4232, Simonisland, Arkansas, United States	0006
+7	Alisson	Sarti	M	2002-02-15	5364497591	71158 Watsica Circles, Suite 776, 85318-7492, Brittanymouth, Rhode Island, United States	0007
+8	Afonso	Lopes	M	1990-11-22	2324840713	7381 Evan Shores, Apt. 735, 64868, Schadenstad, Texas, United States	0008
+9	Amanda	Gabriel	F	1981-10-05	4839110484	3040 Estell Park, Suite 139, 96675, East Angelaberg, Nevada, United States	0009
+10	Ana	Albuquerque	F	1986-03-23	5048630632	774 Ruben Lights, Apt. 232, 49357, Ramiroshire, Alaska, United States	0010
+11	Ana	Flavia	F	2000-06-08	6893978235	82912 Abelardo Haven, Suite 106, 29849, Angeloborough, Idaho, United States	0011
+12	Ana	Luiza	F	1996-10-17	5159294733	45929 Smith Land, Suite 757, 90800-1161, New Kolby, Ohio, United States	0012
+13	Beatriz	Rossi	F	1981-11-19	5552876005	82484 Tillman Streets, Suite 801, 34673-5051, Kossport, Iowa, United States	0013
+14	Caio	Alves	M	1982-08-23	7869307125	060 Denesik Mountains, Suite 425, 35595, Port Edgar, Kentucky, United States	0014
+15	Carla	Andd	F	1986-09-02	5552778271	65382 Dietrich Parkways, Suite 717, 30952-3014, Weissnatborough, Kentucky, United States	0015
+16	Elaine	Mickelangelo	F	1986-05-28	7748453515	643 Domenic Fords, Apt. 399, 44471-5535, New Eastonland, Georgia, United States	0016
+17	Felipe	Carlos	M	1994-06-14	5829745167	97122 Lola Camp, Apt. 240, 04650-5639, Jaylinfurt, Kansas, United States	0017
+18	Gabriel	Fragoso	M	1988-08-10	4062305319	23149 Dion Grove, Suite 635, 26179, New Taureanchester, Nevada, United States	0018
+19	Hiana	Moreira	F	1994-08-20	3373947720	639 Joshuah Vista, Apt. 248, 13769, North Elsieberg, Texas, United States	0019
+20	Isabella	Muniz	F	1988-10-20	7653995111	06960 Maci Falls, Apt. 941, 44755-6704, Lake Aisha, Massachusetts, United States	0020
+21	Lauro	Santos	M	1995-08-02	7807120916	27274 Keira Row, Apt. 484, 53428-0944, East Leo, Illinois, United States	0021
+22	Luiz	André	M	1995-09-16	4697616569	638 Lemuel Manors, Apt. 587, 15147-6035, Araceliview, Iowa, United States	0022
+23	Theo	Pereira	M	1997-02-23	6124235267	076 Legros Crossroad, Suite 583, 41306-2859, Allisonchester, Pennsylvania, United States	0023
+24	Angelina	Jolie	F	1991-08-07	5107192958	8265 Bartoletti Stravenue, Apt. 045, 38226-0365, Rolfsonside, Idaho, United States	0024
+25	Gisele	Namor	F	1997-04-24	4685428538	48829 Betsy Neck, Suite 104, 60637, New Jazlyn, Kentucky, United States	0025
+26	Maria	Januário	F	1997-07-20	7785671045	720 Hansen Glen, Suite 636, 09317-8104, Kaylahchester, Arizona, United States	0026
+27	Italo	Galiope	M	1987-04-04	6552067856	5686 Aimee Points, Suite 718, 87723-0482, North Beulahmouth, Alabama, United States	0027
+28	Jhon	Gern	M	1985-06-26	2528069900	1936 Rosenbaum Route, Suite 226, 40420, West Henry, Florida, United States	0028
+29	Fátim	Filipis	F	2001-03-30	2579219908	43613 Laney Extensions, Apt. 936, 30837, South Jodyview, Alabama, United States	0029
+30	Felipe	Almeida	M	2002-10-09	7521657570	257 Torphy Throughway, Suite 461, 88305-9588, Colehaven, Florida, United States	0030
+31	Augusto	Pontial	M	2000-03-12	3741754668	886 Fidel Island, Suite 427, 55833-3801, New Lesliemouth, Connecticut, United States	0031
+32	Marina	Maciel	F	1989-10-19	8858681376	713 Deondre Square, Apt. 318, 77377, Baumbachborough, Delaware, United States	0032
+33	Mariana	Rodrigues	F	1986-07-17	6189508786	040 Howell Alley, Apt. 780, 09533, Port Lilianmouth, Connecticut, United States	0033
+34	Júlia	Santos	F	1994-05-12	6256301788	74364 Schumm Terrace, Apt. 123, 39967-0913, New Kailynberg, Indiana, United States	0034
+35	Max	Henrique	M	1983-09-15	3778606769	18034 Davis Skyway, Suite 685, 39822-3545, Clevelandberg, Mississippi, United States	0035
+36	Israel	Maia	M	1989-09-12	6329096906	1568 Luz Shore, Suite 905, 04380, New Granvillefort, Idaho, United States	0036
+37	Jhony	Teixeira	M	1996-06-24	6388213744	7503 Hayden Village, Apt. 254, 25033-0004, Schadenfort, New Mexico, United States	0037
+38	Juliana	Lopes	F	2002-08-23	7014798029	81988 Keebler Motorway, Suite 769, 46174-8932, Adityahaven, Massachusetts, United States	0038
+39	Kaique	Henrique	M	1985-08-30	4576095265	9930 Alisa Wells, Apt. 244, 30571, Lake Burley, Alabama, United States	0039
+40	Laura	Luz	F	1987-12-26	2476366472	046 Kuhlman Squares, Apt. 127, 37072-8141, Kiehnmouth, Nebraska, United States	0040

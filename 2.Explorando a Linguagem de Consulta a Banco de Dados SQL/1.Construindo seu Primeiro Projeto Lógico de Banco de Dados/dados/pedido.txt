@@ -1,0 +1,33 @@
+id_pedido	status_pedido	observação	id_cliente	id_pagamento	id_entrega
+1	Enviado à transportadora	NULL	11	22	2
+2	Enviado à transportadora	NULL	5	9	6
+3	Em separação	NULL	34	115	0
+4	Enviado à transportadora	NULL	32	113	5
+5	Pedido recebido	NULL	19	0	0
+6	Pedido saiu para entrega	NULL	11	82	7
+7	Pedido entregue	NULL	10	81	4
+8	Pagamento aprovado	NULL	7	98	0
+9	Em separação	NULL	28	55	0
+10	Pedido recebido	NULL	17	0	0
+11	Pedido recebido	NULL	6	0	0
+12	Pedido saiu para entrega	NULL	27	54	8
+13	Pedido recebido	NULL	33	0	0
+14	Em separação	NULL	4	8	0
+15	Enviado à transportadora	NULL	15	29	3
+16	Em separação	NULL	15	30	0
+17	Pedido entregue	NULL	10	19	9
+18	Pagamento aprovado	NULL	15	86	0
+19	Em separação	NULL	31	112	0
+20	Pagamento aprovado	NULL	6	97	0
+21	Em separação	NULL	6	12	0
+22	Em separação	NULL	17	33	0
+23	Em separação	NULL	5	96	0
+24	Em separação	NULL	17	34	0
+25	Pedido saiu para entrega	NULL	23	45	10
+26	Pagamento aprovado	NULL	40	121	0
+27	Pedido saiu para entrega	NULL	11	22	11
+28	Pedido saiu para entrega	NULL	8	99	14
+29	Pedido saiu para entrega	NULL	35	70	13
+30	Pedido saiu para entrega	NULL	7	98	12
+31	Pedido saiu para entrega	NULL	6	11	1
+32	Pedido recebido	NULL	22	0	0

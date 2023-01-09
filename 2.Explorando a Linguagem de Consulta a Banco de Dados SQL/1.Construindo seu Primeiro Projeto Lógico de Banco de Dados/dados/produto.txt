@@ -1,0 +1,23 @@
+id_produto	nome	categoria	descricao	valor
+1	Notebook GapTwo 15.6	Computadores	i5-11300H 8GB 512GB SSD Dedicada GTX 1650 4GB 15.6 FHD WVA Linux 80IJK00800	4200
+2	Smart TV GapTwo 32	TVs	Smart TV LED 32 HD GapTwo	1300
+3	Computador All In One PERJ	Computadores	Computador All in One PERJ- Intel® Core™ i3-5005U, 4GB, SSD 480GB, Tela 23,8, Windows 10 H	4000
+4	PERJ 13	Celulares	PERJ 13 (128 GB) - Preto	5000
+5	PERJ 10	Celulares	PERJ 10 (64 GB) - Branco	3500
+6	Economia Discreta	Livros	Economia	80
+7	Smart TV FELL 32	TVs	Smart TV LED 32 HD FELL	1500
+8	P90	Consoles	Acompanha 2 controles	4000
+9	Data Science	Livros	Tecnologia	180
+10	How to Python	Livros	Tecnologia	145
+11	PERJ 13 Prox Max - 128GB	Celulares	PERJ 13 Pro Max (128 GB) - Preto	6500
+14	GapTwo Note 12	Celulares	GapTwo Note 12 - 128GB - Azul Escuro	3500
+15	Smart TV KEY 32	TVs	KEY Smart TV 32	1450
+17	GapTwo Note 10	Celulares	GapTwo Note 10 - 64GB - Branco	2000
+18	Notebook FELL 15.6	Computadores	i5-1135G7 8GB 256GB SSD Placa de Vídeo Intel Iris Xe Windows 11 15.6, Cinza, 50H0009E	2800
+19	How to SQL	Livros	Tecnologia	150
+20	KEY X	Consoles	Acompanha 1 controle	2800
+21	Smart TV KEY 50	TVs	Smart TV LED 50 4K UHD KEY	2500
+22	PC Gamer FLASH21	Computadores	Pc Gamer FLASH21 Completo I5 3ºGer. GTX 1650 16GB SSD 480G	3950
+24	Computador All In One KEY	Computadores	All In One KEY 21.5 FHD Intel Celeron N4100 500GB 4GB Win11 Home	2000
+26	Smart TV KEY 24	TVs	KEY Smart TV 24	1000
+27	Smart TV FELL 50	TVs	Smart TV LED 50 4K UHD FELL	3000
