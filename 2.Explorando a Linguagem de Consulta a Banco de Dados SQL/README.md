@@ -9,4 +9,4 @@ Todos os projetos realizados no módulo 'Explorando a Linguagem de Consulta a Ba
 
 ## Ferramentas Utilizadas: 
 
-- MySQL Workbench
+- MySQL Workbench 
