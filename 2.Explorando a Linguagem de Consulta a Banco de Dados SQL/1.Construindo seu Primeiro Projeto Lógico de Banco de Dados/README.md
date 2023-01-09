@@ -1,6 +1,6 @@
 # Construindo seu Primeiro Projeto Lógico de Banco de Dados – E-COMMERCE
 
-Construindo um projeto lógico de banco de dados sobre e-commerce.
+Construindo um projeto lógico de banco de dados.
 
 ## Escopo:
 
