@@ -23,9 +23,9 @@ Especifique ainda queries mais complexas dos que apresentadas durante a explica�
 
 - [Modelo EER - E-commerce](https://github.com/bccalegari/sql_database_specialist_dio/blob/main/1.Modelo%20de%20Entidade%20Relacional%20com%20Banco%20De%20Dados/Refinando%20um%20Projeto%20Conceitual%20de%20Banco%20de%20Dados%20%E2%80%93%20E-COMMERCE/e_commerce_refinado_dio.pdf)
 
-- [Script SQL - Criação do Banco de Dados - E-commerce]()
+- [Script SQL - Criação do Banco de Dados - E-commerce](https://github.com/bccalegari/sql_database_specialist_dio/blob/main/2.Explorando%20a%20Linguagem%20de%20Consulta%20a%20Banco%20de%20Dados%20SQL/1.Construindo%20seu%20Primeiro%20Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados/e-commerce_refinado_dio_bd.sql)
 
-- [Script SQL - Queries - E-commerce]()
+- [Script SQL - Queries - E-commerce](https://github.com/bccalegari/sql_database_specialist_dio/blob/main/2.Explorando%20a%20Linguagem%20de%20Consulta%20a%20Banco%20de%20Dados%20SQL/1.Construindo%20seu%20Primeiro%20Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados/e-commerce_refinado_dio_query.sql)
 
 ## Ferramentas Utilizadas:
 
